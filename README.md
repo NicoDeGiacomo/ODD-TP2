@@ -4,8 +4,9 @@
 # Table of Contents
 * [Enunciado](#Enunciado)
 * [Informe](#Informe)
-* [Instructions](#instructions)
-    * [Running instructions](#running-instructions)
+* [Resources](#Resources)
+    * [Colab](#Colab)
+    * [Drive](#Drive)
 
 # Enunciado
 El objetivo del segundo trabajo práctico es resolver un problema de machine learning con los datos del TP1. Puntualmente, se debe estimar la probabilidad de éxito (probabilidad de closed-won) para cada oportunidad de negocio.\
