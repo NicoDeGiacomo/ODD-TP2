@@ -1,5 +1,5 @@
 # Trabajo práctico 2
-Organización de Datos (75.06/95.58) - 2° cuatrimestre 2020
+## Organización de Datos (75.06/95.58) - 2° cuatrimestre 2020
 
 # Table of Contents
 * [Enunciado](#Enunciado)
