@@ -17,4 +17,4 @@ El objetivo del segundo trabajo práctico es resolver un problema de machine lea
 
 # Instructions
 ### Running instructions:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicoDeGiacomo/ODD-TP2/blob/main/TP2.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1V_hfUvqCaI5p-l1vnnnltR1PGeLwus_w)
