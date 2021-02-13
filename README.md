@@ -15,6 +15,8 @@ El objetivo del segundo trabajo práctico es resolver un problema de machine lea
 [Google Docs](https://docs.google.com/document/d/1a9VOFq1fccPuiFBY21JuMnR78QpHkrwxKfeiG6ZmFiw/edit?usp=sharing)\
 [PDF](https://github.com/NicoDeGiacomo/ODD-TP1/blob/main/TP1%20Informe.pdf)
 
-# Instructions
-### Running instructions:
+# Resources
+### Colab:
 https://colab.research.google.com/drive/1V_hfUvqCaI5p-l1vnnnltR1PGeLwus_w
+### Drive:
+https://drive.google.com/drive/u/1/folders/1b6bCI1w6w2pnmXpWsz90hnHt3iywEmJj
