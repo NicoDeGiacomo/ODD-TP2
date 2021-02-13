@@ -17,4 +17,3 @@ El objetivo del segundo trabajo práctico es resolver un problema de machine lea
 
 # Instructions
 ### Running instructions:
-[![Open In Colab]()
